@@ -1,0 +1,487 @@
+/* body {
+    height: 400vh;
+    width: 100%;
+    background-image: url("../assets/images/background/zafeDiseñoMesa-de-trabajo-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    justify-content: top;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: sans-serif;
+    color: white;
+} */
+
+.indexMain {
+    height: auto;
+    width: 100%;
+    padding: 0 10px 0 10px;
+    background-image: url("../assets/images/background/zafeDiseñoMesa-de-trabajo-9-.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    justify-content: top;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: sans-serif;
+    color: white;
+}
+
+/*========== ROW1 ==========*/
+.row1 {
+    margin-top: 0;
+}
+
+.row1 img {
+    width: 70px;
+    height: auto;
+}
+
+/*========== ROW2 ==========*/
+.row2 {
+    margin-top: 20px;
+}
+
+.row2 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    color: rgb(240, 240, 240);
+}
+
+.row2 hr {
+    margin: 10px 10px 0px 10px;
+    border: 0;
+    border-top: 1px solid white;
+}
+
+/*========== ROW3 ==========*/
+.row3 {
+    margin-top: 10px;
+    padding: 0 10px 0 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.row3 .boxTxt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 10px 0 10px;
+}
+
+.row3 .boxTxt1 {
+    width: 100%;
+    height: auto;
+}
+
+.row3 .boxTxt1 p {
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+
+.row3 .boxTxt1 strong {
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+
+.row3 .boxTxt2 {
+    width: 100%;
+    height: auto;
+}
+
+.row3 .boxTxt2 p {
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.row3 .boxTxt2 strong {
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+.row3 .boxImg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row3 .boxImg1 {
+    width: 150px;
+    height: auto;
+}
+
+.row3 img {
+    width: 100%;
+    height: auto;
+}
+
+/*========== ROW4 ==========*/
+.row4 {
+    margin-top: 10px;
+}
+
+.row4 h1 {
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.row4 hr {
+    margin: 10px 22px 0px 22px;
+    border: 0;
+    border-top: 1px solid white;
+}
+
+
+/*========== ROW5 ==========*/
+.row5 {
+    margin-top: 30px;
+}
+
+.row5 p {
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    padding: 0 16px 0 16px;
+}
+
+
+/*========== ROW6 ==========*/
+.row6 {
+    margin-top: 20px;
+}
+
+.row6 p {
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.row6 strong {
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+/*========== ROW7 ==========*/
+.row7 {
+    margin-top: 10px;
+}
+
+.row7 .boxImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row7 .boxImg1 {
+    width: 320px;
+    height: auto;
+}
+
+.row7 img {
+    width: 100%;
+    height: auto;
+}
+
+
+/*========== ROW8 ==========*/
+.row8 {
+    margin-top: 40px;
+}
+
+.row8 h1 {
+    margin: 0 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.row8 hr {
+    margin: 10px 20px 0px 20px;
+    border: 0;
+    border-top: 1px solid white;
+    letter-spacing: 1px;
+}
+
+/*========== ROW9 ==========*/
+.row9 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row9 .boxTxt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: auto;
+    background-color: rgb(60, 60, 60);
+    filter: opacity(0.7);
+    color: white;
+    padding: 20px 0 0 0;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.row9 .boxTxt1 {
+    margin: 0 0 0 0;
+    width: 250px;
+    height: auto;
+}
+
+.row9 .boxTxt1 p {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.row9 .boxTxt2 {
+    margin: 0 0 0 0;
+    width: 250px;
+    height: auto;
+}
+
+.row9 .boxTxt2 p {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.row9 .boxTxt2 strong {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color:white;
+}
+
+
+/*========== ROW10 ==========*/
+.row10 {
+    margin-top: 40px;
+}
+
+.row10 .boxImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row10 .boxImg1 {
+    width: 320px;
+    height: auto;
+}
+
+.row10 img {
+    width: 100%;
+    height: auto;
+}
+
+
+/*========== ROW11 ==========*/
+.row11 {
+    margin-top: 40px;
+}
+
+.row11 h1 {
+    margin: 0 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.row11 hr {
+    margin: 10px 10px 0px 10px;
+    border: 0;
+    border-top: 1px solid white;
+}
+
+/*========== ROW12 ==========*/
+.row12 {
+    margin-top: 0;
+}
+
+.row12 .boxImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 10px;
+}
+
+.row12 .boxImg1 {
+    width: 340px;
+    height: auto;
+}
+
+.row12 img {
+    width: 340px;
+    height: auto;
+    /* filter: invert(0.6);
+    filter: opacity(0.5); */
+}
+
+
+/*========== ROW13 ==========*/
+.row13 {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.row13 .boxTxt {
+    width: 75%;
+    height: auto;
+}
+
+.row13 p {
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+
+/*========== ROW14 ==========*/
+.row14 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row14 .boxTxt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: auto;
+    background-color: rgb(60, 60, 60);
+    filter: opacity(0.7);
+    color: white;
+    padding: 20px 0 0 0;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.row14 .boxTxt1 {
+    /* margin: 0 0 0 0; */
+    width: 250px;
+    height: auto;
+}
+
+.row14 .boxTxt1 p {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.row14 .boxTxt2 {
+    /* margin: 0 0 0 0; */
+    width: 250px;
+    height: auto;
+}
+
+.row14 .boxTxt2 .p0 {
+    font-size: 32px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.row14 .boxTxt2 .p1 {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    position: relative;
+    top: 13px;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.row14 .boxTxt2 .p2 {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.row14 .boxTxt2 strong {
+    font-size: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+    color:white;
+}
+
+/*========== ROW15 ==========*/
+.footerImg {
+    width: 100%;
+    height: auto;
+}
+
+.footerImg img {
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+}
+
+
+/*========== GENERAL ==========*/
+h1{
+    color: rgb(230, 230, 230);
+}
+
+p{
+    color: rgb(230, 230, 230);
+}
+
